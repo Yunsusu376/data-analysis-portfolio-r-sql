@@ -1,4 +1,4 @@
-# r-basic-data-analysis
+# data-analysis-portfolio-r-sql
 
 A small portfolio of basic data analysis work, including **R statistical analysis** (EDA, correlation/regression, ANOVA, chi-square) and **SQL query practice**.  
 Scripts are written to be readable and reproducible, using clear sectioning and comments.
