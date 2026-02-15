@@ -23,7 +23,7 @@ Scripts are written to be readable and reproducible, using clear sectioning and 
 ### SQL
 
 - `05_basic_sql_queries.sql`  
-  Basic SQL homework queries (Q1–Q10). Queries only; dataset/database not included.
+  Basic SQL queries (Q1–Q10). Queries only; dataset/database not included.
 
 ## How to run (R)
 
