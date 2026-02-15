@@ -26,13 +26,13 @@ This repository contains the following R scripts:
 2. Make sure the required dataset(s) exist locally on your computer.
 3. Run the script you want from top to bottom.
 
-All scripts are designed to use reproducible, project-based workflow.  
+All scripts are designed to use a project-based workflow.  
 If your dataset path differs, adjust the `read_csv()` / `read_dta()` line in the script.
 
 ## Data policy (important)
 
-Some datasets used in these homework tasks are not allowed to be shared publicly.  
-Therefore:
+Some datasets used in these homework tasks are not allowed to be shared publicly. Therefore:
+
 - This repository does not include restricted datasets.
 - Scripts are provided as analysis templates and code examples.
 - Any dataset files should be kept locally and not committed to a public repository unless permission is granted.
